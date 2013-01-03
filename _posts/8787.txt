@@ -1,0 +1,15 @@
+
+layout: product
+title: test2oi
+group-sku: 8787
+group-name: 8787
+price-range: $8787
+short-desc: 
+long-desc: 
+small-image: 
+large-image: 
+product-count: 1
+product-list:
+					
+- [773960, 8787, $8787, 0, ' ']
+						
