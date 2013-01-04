@@ -1,5 +1,5 @@
 
-layout: product
+layout: product-test
 title: test2oi
 group-sku: 8787
 group-name: 8787
