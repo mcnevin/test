@@ -1,5 +1,5 @@
 
-layout: product-test2
+layout: product-test3
 title: test Prod 2
 group-sku: 45678
 group-name: 45678

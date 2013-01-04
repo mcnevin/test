@@ -1,5 +1,5 @@
 
-layout: product-test2
+layout: product-test3
 title: Test Prod 123
 group-sku: 123456
 group-name: test123
