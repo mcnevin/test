@@ -10,6 +10,6 @@ small-image:
 large-image: 
 product-count: 1
 product-list:
-					
+			
 - [773960, 8787, $8787, 0, ' ']
-						
+			

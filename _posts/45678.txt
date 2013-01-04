@@ -10,6 +10,6 @@ small-image:
 large-image: 
 product-count: 1
 product-list:
-					
+			
 - [773959, 45678, $213, 0, ' ']
-						
+			
