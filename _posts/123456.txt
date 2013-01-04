@@ -1,5 +1,5 @@
 
-layout: product-test2
+layout: product-test
 title: Test Prod 123
 group-sku: 123456
 group-name: test123
@@ -10,6 +10,6 @@ small-image: http://dazusfb7pt2uv.cloudfront.net/partx-test/media/images/Crowley
 large-image: http://dazusfb7pt2uv.cloudfront.net/partx-test/media/images/CrowleyMarineInc_C81E728D9D4C2F636F067F89CC14862C/www_crowleymarine_com/AT/med/123456.jpg
 product-count: 1
 product-list:
-					
+			
 - [773958, 123456, $203, 0, ' ']
-						
+			

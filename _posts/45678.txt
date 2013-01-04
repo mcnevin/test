@@ -1,5 +1,5 @@
 
-layout: product-test2
+layout: product-test
 title: test Prod 2
 group-sku: 45678
 group-name: 45678
@@ -10,6 +10,6 @@ small-image:
 large-image: 
 product-count: 1
 product-list:
-					
+			
 - [773959, 45678, $213, 0, ' ']
-						
+			
