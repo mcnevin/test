@@ -1,5 +1,5 @@
 
-layout: product-test
+layout: product
 title: test2oi
 group-sku: 8787
 group-name: 8787
@@ -10,6 +10,6 @@ small-image:
 large-image: 
 product-count: 1
 product-list:
-			
+					
 - [773960, 8787, $8787, 0, ' ']
-			
+						
